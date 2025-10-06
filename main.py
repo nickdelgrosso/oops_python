@@ -7,7 +7,6 @@ def main():
     print("Hello from oops-python!")  # noqa
     print("1 + 1 = 2")
 
-
 a = 3
 b = 5
 c = sum([a, b + 2])    
