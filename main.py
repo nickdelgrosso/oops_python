@@ -4,7 +4,7 @@ import os
 
 
 def main():
-    print("Hello from oops-python!")
+    print("Hello from oops-python!")  # noqa
     print("1 + 1 = 2")
 
 
